@@ -19,8 +19,10 @@
 <h1></h1>
 
 ### 👨‍💻 About Me :
-I’m currently learning on Golang. And I'm inspired to be a Full Stack Developer. 😄
-
+I’m currently learning on Golang. And I'm inspired to be a Full Stack Developer. 🌱
+  - Iasdasd
+  - asdasd
+  - asdad
 <!--
 **Khuntawee/Khuntawee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
