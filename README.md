@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="350"/>
 </div>
 <div id="badges">
-  <a href="linkedin.com/in/nanfa-khuntawee">
+  <a href="https://www.linkedin.com/in/nanfa-khuntawee/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
