@@ -16,6 +16,9 @@
 <div align="center">
   <img src="https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg" alt="banner" height="300px" width="1000px">
 </div>
+---
+
+### :man_technologist: About Me :
 <!--
 **Khuntawee/Khuntawee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
