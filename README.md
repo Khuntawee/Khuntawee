@@ -16,9 +16,10 @@
 <div align="center">
   <img src="https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg" alt="banner" height="300px" width="1000px">
 </div>
----
 
-### > About Me :
+### 👨‍💻 About Me :
+> I’m currently learning on Golang. And I'm inspired to be a Full Stack Developer. 😄
+
 <!--
 **Khuntawee/Khuntawee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
