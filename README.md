@@ -9,10 +9,8 @@
 <div id="view-count" align="center">
   <img src="https://komarev.com/ghpvc/?username=Khuntawee&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>
-  hey there
+  ### hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 <div align="center">
   <img src="https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg" alt="banner" height="300px" width="1000px">
 </div>
