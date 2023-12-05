@@ -9,6 +9,9 @@
 <div id="view-count" align="center">
   <img src="https://komarev.com/ghpvc/?username=Khuntawee&style=flat-square&color=blue" alt=""/>
 </div>
+<div align="center">
+  <img src="https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg" alt="banner" height="250px" width="600px">
+</div>
 <!--
 **Khuntawee/Khuntawee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
