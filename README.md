@@ -22,7 +22,7 @@
 ### 👨‍💻 About Me :
 I’m currently learning Golang. And I'm inspired to be a Full Stack Developer. 🌱
   - 👨‍🎓 Currently pursuing a Bachelor's degree in Computer Engineering and Digital Technology at Chulalongkorn University. 
-  - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nanfa-khuntawee/)
+  - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Nanfa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nanfa-khuntawee/)
 
 ---
 
