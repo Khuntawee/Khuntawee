@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="250"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nanfa-khuntawee/">
@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Khuntawee&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <img src="https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg" alt="banner" height="250px" width="600px">
+  <img src="https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg" alt="banner" height="300px" width="1000px">
 </div>
 <!--
 **Khuntawee/Khuntawee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
